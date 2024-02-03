@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="caa8bf15-27f9-4c32-b401-a92ebd155bd8" name="Changes" comment="Print Hello Github&#10;&#10;(cherry picked from commit 327708dd8a892e2b41aa17d9dfb0d27f19aa48f8)">
+    <list default="true" id="caa8bf15-27f9-4c32-b401-a92ebd155bd8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,9 +26,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2bXaRo1F8uRVj6mP1aqwNhnaaW9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -38,7 +39,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Nikita"
+    "git-widget-placeholder": "Nikita",
+    "settings.editor.selected.configurable": "build.tools"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -66,7 +68,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706367298990</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="empty project&#10;&#10;(cherry picked from commit 2650e4b4fedf8d8b66c5c6c6ae1d0f2de5f6b053)">
+      <option name="closed" value="true" />
+      <created>1706968778903</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706968778903</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,7 +90,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/master" />
+                        <option value="Nikita" />
                       </list>
                     </value>
                   </entry>
@@ -94,6 +104,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Print Hello Github&#10;&#10;(cherry picked from commit 327708dd8a892e2b41aa17d9dfb0d27f19aa48f8)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Print Hello Github&#10;&#10;(cherry picked from commit 327708dd8a892e2b41aa17d9dfb0d27f19aa48f8)" />
+    <MESSAGE value="empty project&#10;&#10;(cherry picked from commit 2650e4b4fedf8d8b66c5c6c6ae1d0f2de5f6b053)" />
+    <option name="LAST_COMMIT_MESSAGE" value="empty project&#10;&#10;(cherry picked from commit 2650e4b4fedf8d8b66c5c6c6ae1d0f2de5f6b053)" />
   </component>
 </project>
