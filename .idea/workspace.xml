@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="caa8bf15-27f9-4c32-b401-a92ebd155bd8" name="Changes" comment="sum of n events">
+    <list default="true" id="caa8bf15-27f9-4c32-b401-a92ebd155bd8" name="Changes" comment=" find all prime numbers in a given range.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -92,7 +92,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706973380523</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary=" find all prime numbers in a given range.">
+      <option name="closed" value="true" />
+      <created>1707481603133</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707481603133</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,6 +130,7 @@
     <MESSAGE value="Print Hello Github&#10;&#10;(cherry picked from commit 327708dd8a892e2b41aa17d9dfb0d27f19aa48f8)" />
     <MESSAGE value="empty project&#10;&#10;(cherry picked from commit 2650e4b4fedf8d8b66c5c6c6ae1d0f2de5f6b053)" />
     <MESSAGE value="sum of n events" />
-    <option name="LAST_COMMIT_MESSAGE" value="sum of n events" />
+    <MESSAGE value=" find all prime numbers in a given range." />
+    <option name="LAST_COMMIT_MESSAGE" value=" find all prime numbers in a given range." />
   </component>
 </project>

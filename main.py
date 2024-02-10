@@ -1,20 +1,10 @@
-firstNum = int(input())
-secondNum = int(input())
-def primeNum(n):
-    if n <= 1:
-        return False
-    for i in range(2, int(n**0.5) + 1):
-        if n % i == 0:
-            return False
-    return True
+N = int(input("Enter the number of integers: "))
 
-def primeRange(firstNum, secondNum):
-    primeNumbers = []
-    for num in range(firstNum, secondNum + 1):
-        if primeNum(num):
-            primeNumbers.append(num)
-    return primeNumbers
+numbers = []
+for i in range(N):
+    num = int(input("Enter an integer: "))
+    numbers.append(num)
 
-primeNumbers = primeRange(firstNum, secondNum)
-print(primeNumbers)
+countOfZeros = numbers.count(0)
 
+print("Number of zeros:", countOfZeros)
