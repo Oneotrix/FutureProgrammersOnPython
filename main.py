@@ -1,14 +1,11 @@
-#Ввести положительное число N. Найдите сумму всех четных чисел от 0 до N, используя цикл while.
-#Формат ввода: int положительное число (например, 2, 3 и т. д.)
-#Формат вывода: список целых положительных чисел (например, 2, 3 и т. д.)
-n = int(input("Введите число N: "))
 
-sum = 0
-count = 2
+N = int(input("Введите число N: "))
 
-while count <= n:
-     if count % 2 == 0:
-          sum = sum + count
-     count = count + 1
+count = 0
 
-print(sum)
+for i in range(1, N + 1):
+    num = int(input("Введите число: "))
+    if(num == 0):
+        count = count + 1
+print(count)
+
