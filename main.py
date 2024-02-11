@@ -21,20 +21,16 @@ print (out)
 
 
 
-name = "Костя"
-print("Мое имя:",name)
-f = 0
-while True:
-    print("Ваше имя???")
-    f =input()
-    if f != 0:
-        break
-print("Ваше имя:",f)
-time.sleep(3)
-print("Тупое имя",f,",не то что Костя")
-time.sleep(3)
-print("боже я рофлю",f,"нормальное имя")
-time.sleep(1)
-#while True:
-#    l = input()
-#    print("Ожидаю команды...")
+
+K = 6
+N = 24
+if K < N :
+    K=K+1
+    while K<=(N-1) :
+        print(K)
+        K=K+1
+else:
+    N =N +1
+    while N <= (K-1):
+        print(N)
+        N=N + 1
