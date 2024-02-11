@@ -16,7 +16,8 @@ out = num1 % num2
 print("4%12 =",out)
 out = num1 // num2
 print("4//12 =",out)
-
+out = num1 / (1/2)
+print (out)
 
 
 
