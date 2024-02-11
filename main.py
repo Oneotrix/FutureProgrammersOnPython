@@ -1,13 +1,22 @@
 import time
 
-num1 = 1
-num2 = 2.0
-str = "num3"
-num4 = True
-print(num2)
-print(num1)
-print(str)
-print(num4)
+num1 = 4
+num2 = 12
+out = num1 + num2
+print("4+12 =",out)
+out = num1 - num2
+print("4-12 =",out)
+out = num1 * num2
+print("4*12 =",out)
+out = num2 / num1
+print("12/4 =",out)
+out = num1 ** num2
+print("4**12 =",out)
+out = num1 % num2
+print("4%12 =",out)
+out = num1 // num2
+print("4//12 =",out)
+
 
 
 
