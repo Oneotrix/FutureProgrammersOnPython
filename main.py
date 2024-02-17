@@ -1,9 +1,7 @@
-c=15
+a=10
 
-d=2
+b=2
 
-sum = c + d
+c=5
 
-result = sum
-
-print(result)
+print(a, b, c)
