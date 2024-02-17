@@ -1,7 +1,5 @@
-a = int(input("Введите число 1: "))
-b = int(input("Введите число 2: "))
+list = [5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
 
-if a <= 1 and b >= 5:
-    print(a + b)
-else:
-    print(a - b)
+for i in list:
+    if 8 > i > 3:
+        print(i)
