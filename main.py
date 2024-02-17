@@ -1,5 +1,4 @@
-n = int(input("Введите целое число : "))
-i = 0
-while i <= n:
- print(i)
-i += 1
+list = ['12','8','3']
+for i in range(5):
+     if '8' in list == True:
+         print('8' in list)
