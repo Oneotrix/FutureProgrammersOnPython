@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="caa8bf15-27f9-4c32-b401-a92ebd155bd8" name="Changes" comment="контрольная работа 1 номер 4">
+    <list default="true" id="caa8bf15-27f9-4c32-b401-a92ebd155bd8" name="Changes" comment="контрольная работа 1 номер 8">
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -166,7 +166,39 @@
       <option name="project" value="LOCAL" />
       <updated>1708175911276</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="контрольная работа 1 номер 5">
+      <option name="closed" value="true" />
+      <created>1708176120926</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1708176120926</updated>
+    </task>
+    <task id="LOCAL-00016" summary="контрольная работа 1 номер 6">
+      <option name="closed" value="true" />
+      <created>1708176275608</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1708176275608</updated>
+    </task>
+    <task id="LOCAL-00017" summary="контрольная работа 1 номер 7">
+      <option name="closed" value="true" />
+      <created>1708176351057</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1708176351057</updated>
+    </task>
+    <task id="LOCAL-00018" summary="контрольная работа 1 номер 8">
+      <option name="closed" value="true" />
+      <created>1708176395652</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1708176395652</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -204,6 +236,10 @@
     <MESSAGE value="контрольная работа 1 номер 2" />
     <MESSAGE value="контрольная работа 1 номер 3" />
     <MESSAGE value="контрольная работа 1 номер 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="контрольная работа 1 номер 4" />
+    <MESSAGE value="контрольная работа 1 номер 5" />
+    <MESSAGE value="контрольная работа 1 номер 6" />
+    <MESSAGE value="контрольная работа 1 номер 7" />
+    <MESSAGE value="контрольная работа 1 номер 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="контрольная работа 1 номер 8" />
   </component>
 </project>

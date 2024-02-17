@@ -1,6 +1,6 @@
 a = int(input("Введите число: "))
 
-if a < 0:
+if 5 > a > 0:
     print("Верно")
 else:
     print("Неверно")
