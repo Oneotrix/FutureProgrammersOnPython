@@ -1,4 +1,6 @@
 a = int(input())
-true =  a > 0
+tru = a < 0
+tru1 = a > 5
 
-print(true)
+print(tru)
+print(tru1)
