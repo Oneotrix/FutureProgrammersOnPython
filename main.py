@@ -1,3 +1,10 @@
-A = 6
+a=10
 
-print(A)
+b=2
+
+sum = a + b
+
+raz = a - b
+
+print(sum)
+print(raz)
