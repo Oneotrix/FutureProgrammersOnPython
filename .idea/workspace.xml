@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="caa8bf15-27f9-4c32-b401-a92ebd155bd8" name="Changes" comment="Write a function that takes as parameters a list of numbers and a lambda function that will sort this list in ascending order">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="caa8bf15-27f9-4c32-b401-a92ebd155bd8" name="Changes" comment="контрольная работа 1 номер 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -123,7 +121,23 @@
       <option name="project" value="LOCAL" />
       <updated>1708173322208</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="контрольная работа 1 номер 1">
+      <option name="closed" value="true" />
+      <created>1708175714280</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1708175714280</updated>
+    </task>
+    <task id="LOCAL-00011" summary="контрольная работа 1 номер 2">
+      <option name="closed" value="true" />
+      <created>1708175766352</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1708175766352</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,6 +171,8 @@
     <MESSAGE value="Write a function that takes as parameters a list of numbers and a lambda function that counts the number of elements in the list, as well as their sum and returns the result in the form of a list that contains 2 elements (1st - the number of numbers in the list, 2nd - the sum of the numbers in this list )" />
     <MESSAGE value="Write a function that takes as parameters a list of numbers and a lambda function that will sort this list in ascending order" />
     <MESSAGE value="fixup! Write a function that takes as parameters a list of numbers and a lambda function that will sort this list in ascending order" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixup! Write a function that takes as parameters a list of numbers and a lambda function that will sort this list in ascending order" />
+    <MESSAGE value="контрольная работа 1 номер 1" />
+    <MESSAGE value="контрольная работа 1 номер 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="контрольная работа 1 номер 2" />
   </component>
 </project>

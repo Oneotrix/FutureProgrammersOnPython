@@ -1,15 +1,5 @@
-a = 10
-b = 2
-sum = a + b
-raz = a - b
-multi = a * b
-chastnoe = a // b
-chastnoe2 = a % b
-chastnoe3 = a / b
+c = 15
+d = 2
+result = c + d
 
-print(sum)
-print(raz)
-print(multi)
-print(chastnoe)
-print(chastnoe2)
-print(chastnoe3)
+print(result)
