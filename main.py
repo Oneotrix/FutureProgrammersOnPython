@@ -1,10 +1,9 @@
-a=10
+c=15
 
-b=2
+d=2
 
-sum = a + b
+sum = c + d
 
-raz = a - b
+result = sum
 
-print(sum)
-print(raz)
+print(result)
