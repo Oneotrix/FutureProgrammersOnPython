@@ -1,6 +1,14 @@
-list = [1, 7, 89, 90, 65, 4, 10, 20, 30, 42]
+list = []
+nums1Sum = 0
+nums2Sum = 0
+
+for i in range(-10, 20):
+    list.append(i)
 
 for i in list:
-    if i == 4:
-        print("Есть!")
-        break
+    if i <= 1:
+        nums1Sum += i
+    elif 3 < i < 8:
+        nums2Sum += i
+
+print(nums1Sum - nums2Sum)
