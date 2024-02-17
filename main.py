@@ -1,9 +1,5 @@
-a = int(input())
-b = int(input())
+name =  ("моё имя Misha")
+age = ("мой возраст 12")
+num = ("номер школы 117")
 
-c = a - b
-d = 7
-result = d + c
-
-print(c)
-print(result)
+print(name, age, num)
