@@ -1,10 +1,10 @@
-N = int(input("Enter the number of integers: "))
+numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
-numbers = []
-for i in range(N):
-    num = int(input("Enter an integer: "))
-    numbers.append(num)
+def filterNumbers(numbers, operation):
+    count = operation(numbers)
+    total = sum(numbers)
+    return [count, total]
 
-countOfZeros = numbers.count(0)
+result = filterNumbers(numbers, lambda x: len(x))
 
-print("Number of zeros:", countOfZeros)
+print(result)
