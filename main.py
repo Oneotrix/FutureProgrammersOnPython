@@ -1,5 +1,4 @@
-name =  ("моё имя Misha")
-age = ("мой возраст 12")
-num = ("номер школы 117")
+a  = int(input())
+true =  a > 0
 
-print(name, age, num)
+print(true)
