@@ -1,6 +1,7 @@
-a = int(input("Введите число: "))
+a = int(input("Введите число 1: "))
+b = int(input("Введите число 2: "))
 
-if 5 > a > 0:
-    print("Верно")
+if a <= 1 and b >= 5:
+    print(a + b)
 else:
-    print("Неверно")
+    print(a - b)
