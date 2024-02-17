@@ -1,10 +1,9 @@
-numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+numbers = [4, 2, 7, 1, 5, 3, 6, 8, 9, 10]
 
-def filterNumbers(numbers, operation):
-    count = operation(numbers)
-    total = sum(numbers)
-    return [count, total]
+def sortNumbers(numbers, sorting):
+    sorted_numbers = sorting(numbers)
+    return sorted_numbers
 
-result = filterNumbers(numbers, lambda x: len(x))
+sortedNumbers = sortNumbers(numbers, lambda x: sorted(x))
 
-print(result)
+print(sortedNumbers)

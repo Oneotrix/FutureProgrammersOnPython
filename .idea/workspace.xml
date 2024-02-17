@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="caa8bf15-27f9-4c32-b401-a92ebd155bd8" name="Changes" comment="Count the number of zeros among the entered numbers">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="caa8bf15-27f9-4c32-b401-a92ebd155bd8" name="Changes" comment="Write a function that takes as parameters a list of numbers and a lambda function that counts the number of elements in the list, as well as their sum and returns the result in the form of a list that contains 2 elements (1st - the number of numbers in the list, 2nd - the sum of the numbers in this list )">
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707570883657</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Count the number of zeros among the entered numbers">
+      <option name="closed" value="true" />
+      <created>1708172942450</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1708172942450</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,7 +146,7 @@
     <MESSAGE value="empty project&#10;&#10;(cherry picked from commit 2650e4b4fedf8d8b66c5c6c6ae1d0f2de5f6b053)" />
     <MESSAGE value="sum of n events" />
     <MESSAGE value=" find all prime numbers in a given range." />
-    <MESSAGE value="Count the number of zeros among the entered numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Count the number of zeros among the entered numbers" />
+    <MESSAGE value="Write a function that takes as parameters a list of numbers and a lambda function that counts the number of elements in the list, as well as their sum and returns the result in the form of a list that contains 2 elements (1st - the number of numbers in the list, 2nd - the sum of the numbers in this list )" />
+    <option name="LAST_COMMIT_MESSAGE" value="Write a function that takes as parameters a list of numbers and a lambda function that counts the number of elements in the list, as well as their sum and returns the result in the form of a list that contains 2 elements (1st - the number of numbers in the list, 2nd - the sum of the numbers in this list )" />
   </component>
 </project>
