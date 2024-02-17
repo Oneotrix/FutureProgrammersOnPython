@@ -1,7 +1,9 @@
-a=10
+a = int(input())
+b = int(input())
 
-b=2
+c = a - b
+d = 7
+result = d + c
 
-c=5
-
-print(a, b, c)
+print(c)
+print(result)
