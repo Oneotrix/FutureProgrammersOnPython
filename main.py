@@ -1,5 +1,6 @@
-name = "Nikita"
-age = "15"
-schoolIndex = 110
+a = int(input("Введите число: "))
 
-print("моё имя", name, "мне", age, "лет, я учусь в", schoolIndex, "школе")
+if a > 0:
+    print("Верно")
+else:
+    print("Неверно")
