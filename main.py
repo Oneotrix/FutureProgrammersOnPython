@@ -1,5 +1,5 @@
-a = 10
-b = 2
-c = 5
-result = a + b + c
-print("result", 17)
+c = 15
+d = 2
+result = c + d
+print(result)
+
