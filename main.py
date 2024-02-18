@@ -1,6 +1,5 @@
-a = 10
-b = 5
-c = 2
+a = int(input("введите число а"))
 
-print("a+b+c", a + b + c)
+b = int(input("введите число b"))
 
+print("итого", a + b)
