@@ -1,11 +1,4 @@
-a=10
+c=15
 b=2
-print(a+b)
-print(a-b)
-print(a*b)
-print(a/b)
-print(a**b)
-print(a%b)
-print(a//b)
-print(a**0.5)
-print(b**0.5)
+result=c+b
+print(result)
