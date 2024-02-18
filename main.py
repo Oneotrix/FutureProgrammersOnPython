@@ -1,10 +1,5 @@
-a = 10
+c = 15
+d = 2
 
-b = 2
-
-print(" + ", a + b)
-print(" -", a - b)
-print(" * ", a * b)
-print(" / ", a / b)
-
-
+result = c + d
+print("result", result)
