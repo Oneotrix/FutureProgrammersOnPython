@@ -1,13 +1,7 @@
-A = 10
-B = 2
-print(A+B)
-print(A-B)
-print(A*B)
-print(A/B)
-print(A//B)
-print(A%B)
-#
-
+C=15
+D=2
+result =C+D
+print(result)
 
 
 K = int(input("Введи число K: "))
