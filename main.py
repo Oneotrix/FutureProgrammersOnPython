@@ -1,5 +1,11 @@
-A = 3
-print(A)
+A = 10
+B = 2
+print(A+B)
+print(A-B)
+print(A*B)
+print(A/B)
+print(A//B)
+print(A%B)
 
 
 
