@@ -1,8 +1,7 @@
-C=15
-D=2
-result =C+D
-print(result)
-
+A=10
+B=2
+C=5
+print(A+B+C)
 
 K = int(input("Введи число K: "))
 N = int(input("Введи число N: "))
