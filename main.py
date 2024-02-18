@@ -1,3 +1,9 @@
+A = 3
+print(A)
+
+
+
+
 K = int(input("Введи число K: "))
 N = int(input("Введи число N: "))
 
