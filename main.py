@@ -1,6 +1,4 @@
-a=int (input())
-b=int (input())
-d=7
-c=a-b
-result=c+d
-print(result)
+name=("Miroslav")
+age=16
+num=109
+print("моё имя", name, "мне", age, "лет", "я учусь в", num, "школе")
