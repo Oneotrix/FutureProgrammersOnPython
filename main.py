@@ -2,11 +2,7 @@ a=input()
 b=input()
 c=a-b
 d=7
-result=d+c
-print(result)
-
-
-
+result =d+c
 
 K = int(input("Введи число K: "))
 N = int(input("Введи число N: "))
