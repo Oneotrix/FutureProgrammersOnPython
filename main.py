@@ -1,5 +1,6 @@
 a=int(input())
-if a>0 and a<5:
-    print("verno")
+b=int(input())
+if a<=1 and b>=3:
+    print(a+b)
 else:
-    print("neverno")
+    print(a-b)
