@@ -1,4 +1,6 @@
-a=10
-b=2
-c=5
-print(a+b+c)
+a=int (input())
+b=int (input())
+d=7
+c=a-b
+result=c+d
+print(result)
