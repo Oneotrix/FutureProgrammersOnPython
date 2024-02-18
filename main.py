@@ -1,8 +1,7 @@
-a=input()
-b=input()
-c=a-b
-d=7
-result =d+c
+name="Костя"
+age="15"
+num="96"
+print("меня зовут",name,"мне",age,"учусь в школе номер",num)
 
 K = int(input("Введи число K: "))
 N = int(input("Введи число N: "))
