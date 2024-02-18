@@ -1,7 +1,4 @@
-a=input("Введите число A:")
-b=input("Введите число B:")
-
-if a<=1 and b>=3:
-    print(a+b)
-else:
-    print(a-b)
+nums = [5,6,7,8,9,10,11,12,13,14,15]
+for num in nums:
+    if num>3 and num<8:
+        print(num)
