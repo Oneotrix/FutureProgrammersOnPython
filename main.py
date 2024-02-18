@@ -1,4 +1,5 @@
-name=("Miroslav")
-age=16
-num=109
-print("моё имя", name, "мне", age, "лет", "я учусь в", num, "школе")
+a=int(input())
+if a>0:
+    print("verno")
+else:
+    print("neverno")
