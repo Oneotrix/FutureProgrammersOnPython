@@ -1,7 +1,12 @@
-A=10
-B=2
-C=5
-print(A+B+C)
+a=input()
+b=input()
+c=a-b
+d=7
+result=d+c
+print(result)
+
+
+
 
 K = int(input("Введи число K: "))
 N = int(input("Введи число N: "))
