@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="caa8bf15-27f9-4c32-b401-a92ebd155bd8" name="Changes" comment="контрольная работа 1 номер 12">
+    <list default="true" id="caa8bf15-27f9-4c32-b401-a92ebd155bd8" name="Changes" comment="контрольная работа 1 номер 13">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -231,7 +231,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708176937593</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="контрольная работа 1 номер 13">
+      <option name="closed" value="true" />
+      <created>1708177658892</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1708177658892</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -277,6 +285,7 @@
     <MESSAGE value="контрольная работа 1 номер 10" />
     <MESSAGE value="контрольная работа 1 номер 11" />
     <MESSAGE value="контрольная работа 1 номер 12" />
-    <option name="LAST_COMMIT_MESSAGE" value="контрольная работа 1 номер 12" />
+    <MESSAGE value="контрольная работа 1 номер 13" />
+    <option name="LAST_COMMIT_MESSAGE" value="контрольная работа 1 номер 13" />
   </component>
 </project>
