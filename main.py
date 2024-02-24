@@ -1,8 +1,12 @@
-list = []
+number = int(input("Введите число: "))
 
-for i in range(2000, 2301):
-    if i % 7 == 0 and i % 5 != 0:
-        list.append(str(i))
+def factorial(num):
+    if num == 0 or num == 1:
+        return 1
+    else:
+        return num * factorial(num - 1)
 
-result = ' '.join(list)
-print(result)
+if number < 0:
+    print("Отрицательне число")
+else:
+    print("Факториал цисла", number, ":", factorial(number))
