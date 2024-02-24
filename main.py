@@ -1,6 +1,6 @@
 
-def min(o: int, l: int):
+def minus(o: int, l: int):
     c = o - l
     print(c)
 
-min(5, 3)
+minus(5, 3)
