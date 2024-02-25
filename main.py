@@ -1,6 +1,7 @@
-list = [1, 7, 19, 52, 32]
+#Даны два целых числа A и B (при этом A ≤ B). Выведите все числа от A до B включительно
 
-for i in list:
-    if i == 4:
-        print("Есть")
-        break
+A = int(input("введите число:" ))
+B = int(input("введите число:"))
+
+for i in range(A,B):
+    print(i)
