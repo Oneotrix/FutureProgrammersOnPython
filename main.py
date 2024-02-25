@@ -1,6 +1,6 @@
-a=int(input())
-b=int(input())
-if a<=1 and b>=3:
-    print(a+b)
-else:
-    print(a-b)
+n=int (input())
+c=n
+for i in range(1,n):
+    c=c*i
+print(c)
+
