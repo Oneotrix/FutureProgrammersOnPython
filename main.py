@@ -4,4 +4,5 @@ A = int(input("введите число:"))
 B = int(input("введите число:"))
 
 for i in range(A, B+1):
+
     print(i)
