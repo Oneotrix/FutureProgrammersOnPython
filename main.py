@@ -1,31 +1,7 @@
-# - * / % //
-def minus(a: int,  b: int):
-    c = a - b
-    print(c)
+#Задайте в программе три переменные с любым именем и значениями 15, 10, 0. Выведите на экран их произведение.
+a = 15
+b = 10
+c = 0
+v = a * b * c
+print(v)
 
-
-minus(8,7)
-
-def multiply(a: int,  b: int):
-    c = a * b
-    print(c)
-
-multiply(7, 7)
-
-def деление1(a: int,  b: int):
-    c = a / b
-    print(c)
-
-деление1(8, 8)
-
-def деление2(a: int,  b: int):
-    c = a // b
-    print(c)
-
-деление2(9, 9)
-
-def деление3(a: int,  b: int):
-    c = a % b
-    print(c)
-
-деление3(6, 6)
