@@ -1,7 +1,5 @@
-def calculateSumOfRange(start, end):
-    sum = 0
-    for i in range(start, end):
-        sum += i
-    print("sum:", sum)
+def numReverse(number):
+    result = int(str(number)[::-1])
+    print(result)
 
-calculateSumOfRange(100, 501)
+numReverse(144)
