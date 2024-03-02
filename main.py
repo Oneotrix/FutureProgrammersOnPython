@@ -1,5 +1,3 @@
-a = 100
-s = a
-for i in range(a, 500):
-    s = i + s
-print(s)
+def sum_range(a, b):
+    if a > b: a, b = b, a
+    return sum(range(a, b + 1))
