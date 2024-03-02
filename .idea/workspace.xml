@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="caa8bf15-27f9-4c32-b401-a92ebd155bd8" name="Changes" comment="Write a program that finds all such numbers that are divisible by 7 but not divisible by 5, in the range 2000 to 3200 (both included).">
+    <list default="true" id="caa8bf15-27f9-4c32-b401-a92ebd155bd8" name="Changes" comment="Write a program which can compute the factorial of a given numbers.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -246,7 +247,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708767914766</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Write a program which can compute the factorial of a given numbers.">
+      <option name="closed" value="true" />
+      <created>1708768549251</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1708768549251</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -294,6 +303,7 @@
     <MESSAGE value="контрольная работа 1 номер 12" />
     <MESSAGE value="контрольная работа 1 номер 13" />
     <MESSAGE value="Write a program that finds all such numbers that are divisible by 7 but not divisible by 5, in the range 2000 to 3200 (both included)." />
-    <option name="LAST_COMMIT_MESSAGE" value="Write a program that finds all such numbers that are divisible by 7 but not divisible by 5, in the range 2000 to 3200 (both included)." />
+    <MESSAGE value="Write a program which can compute the factorial of a given numbers." />
+    <option name="LAST_COMMIT_MESSAGE" value="Write a program which can compute the factorial of a given numbers." />
   </component>
 </project>
