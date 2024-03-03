@@ -1,4 +1,6 @@
-a = int(input("Ввидите первое число: "))
-b = int(input("Ввидите второе число: "))
-for i in range(a-1, b):
-    print(i +1)
+a = 100
+b = 500
+d = 0
+for i in range(a, b):
+    d = d + i
+print(d)
