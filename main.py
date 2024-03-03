@@ -1,2 +1,4 @@
+s = 0
 for i in range(100, 500):
-    print(i)
+    s = i+s
+    print(s)
