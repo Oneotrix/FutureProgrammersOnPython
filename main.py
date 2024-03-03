@@ -1,5 +1,4 @@
-a=int(input("Введите число а "))
-b=int(input("Введите число b "))
-for i in range(a,b+1):
-    print(i)
-
+s = 0
+for i in range(100, 500):
+    s += i
+print(s)
