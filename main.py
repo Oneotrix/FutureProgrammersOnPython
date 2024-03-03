@@ -1,8 +1,4 @@
-a = int(input("введите число для чегото"))
-
-if a >= 1 and a <= 3 :
-    print("правильно")
-else:
-    print("неправильно")
-
-
+s = 0
+for i in range(100, 500):
+    s = i + s
+    print(s)
