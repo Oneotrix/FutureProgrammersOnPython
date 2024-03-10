@@ -1,4 +1,8 @@
-s = 0
-for i in range(100, 500):
-    s = i+s
-    print(s)
+list = []
+
+n = int(input("длина списка:"))
+
+for i in range (0, n):
+    list.append(i)
+
+print(list[0:n-1])
