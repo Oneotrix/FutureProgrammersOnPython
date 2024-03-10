@@ -1,7 +1,5 @@
-list = ["23","","я кутой","32","","хыхы"]
-d = 0
+list =[5,67,12,97,2,43]
+newlist =[]
 for i in list:
-    if i =="":
-        list.pop(d)
-    d += 1
-print(list)
+    newlist.append(i**2)
+print(newlist)
