@@ -1,8 +1,13 @@
-list=["52","ща","","ой","","8","","872"]
-a=0
-for i in list:
-    if i=="":
-        list.pop(a)
-    a+=1
-print(list)
+num_list = [1, 2, 3, 4, 5, 6, 7, 8]
+
+list = []
+
+
+for num in num_list:
+    list.append(num * num)
+
+num_list = list
+
+print(num_list)
+
 
