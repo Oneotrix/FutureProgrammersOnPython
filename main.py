@@ -1,8 +1,5 @@
-list = []
+str_list = [54, '', 86, '', 75, '', '']
 
-n = int(input("длина списка:"))
+str_list = [i for i in str_list if i]
 
-for i in range (0, n):
-    list.append(i)
-
-print(list[0:n-1])
+print(str_list)
