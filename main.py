@@ -1,6 +1,6 @@
-a = int(input("Перв0е числ0"))
-b = int(input("Вт0р0е числ0"))
-d = 0
-for i in range(a, b+1): #<---
-    d = d + i
-print(d)
+n = int(input("Ввидите числ0"))
+list = []
+for i in range(1,n):
+    list.append(i)
+new_list = list[0:n-10]
+print(new_list)
