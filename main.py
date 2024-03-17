@@ -1,5 +1,6 @@
-list =[5,67,12,97,2,43]
-newlist =[]
-for i in list:
-    newlist.append(i**2)
-print(newlist)
+b = 0
+a =int(input("Число:"))
+while(a>0):
+    b =b +1
+    a = a//10
+print(b)
