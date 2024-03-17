@@ -1,5 +1,10 @@
-str_list = [54, '', 86, '', 75, '', '']
+b = 0
 
-str_list = [i for i in str_list if i]
+a = int(input("введите число:"))
 
-print(str_list)
+if  a > 0:
+    b = b + 1
+    a = a // 10
+    print(a)
+else:
+    print(a)
