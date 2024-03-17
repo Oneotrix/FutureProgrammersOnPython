@@ -1,13 +1,6 @@
-num_list = [1, 2, 3, 4, 5, 6, 7, 8]
-
-list = []
-
-
-for num in num_list:
-    list.append(num * num)
-
-num_list = list
-
-print(num_list)
-
-
+a=int(input("Введите число "))
+count=0
+while(a>0):
+    count=count+1
+    a=a//10
+print(count)
