@@ -1,10 +1,7 @@
-b = 0
+p = 0
+p = int(input("введите число:"))
 
-a = int(input("введите число:"))
-
-if  a > 0:
-    b = b + 1
-    a = a // 10
-    print(a)
+if p > 0:
+    print("положительное")
 else:
-    print(a)
+    print("отрицательное")
