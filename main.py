@@ -1,14 +1,5 @@
-A = 10
-B = 2
+list = [5,6,7,8,9,10,11,12,13,14,15]
 
-S = 0
-P = 0
-M = 0
-V = 0
-
-S = A+B
-P = A-B
-M = A * B
-V = A / B
-
-print(S,P,M,V)
+for i in list:
+    if 3 < i < 8:
+        print(i)
