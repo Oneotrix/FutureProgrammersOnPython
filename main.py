@@ -1,10 +1,11 @@
-list=[]
-for i in range(0,100):
-    list.append(i)
-size=0
-sum=0
-for i in list:
-    size=size+1
-    sum=sum+i
-result=sum/size
-print(result)
+a = int (input())
+b = int (input())
+c = int (input())
+if a+b<c or b+a<c or a+c<b or c+a<b or b+c<a or c+b<a:
+    print("сумма любых 2ух сторон треугольников должна быть > длины третей стороны")
+    exit()
+p = a+b+c
+p1 =(a+b+c)/2
+s = p1*(p1-a)*(p1-b)*(p1-c)**0.5
+print(p)
+print(s)
