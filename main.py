@@ -1,6 +1,10 @@
-a=int(input("Введите число "))
-count=0
-while a:
-    count+=a%10
-    a//=10
-print(count)
+list=[]
+for i in range(0,100):
+    list.append(i)
+size=0
+sum=0
+for i in list:
+    size=size+1
+    sum=sum+i
+result=sum/size
+print(result)
