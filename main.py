@@ -1,7 +1,7 @@
 a = int (input())
 b = int (input())
 c = int (input())
-if a+b<c or b+a<c or a+c<b or c+a<b or b+c<a or c+b<a:
+if a+b<c and a+c<b and b+c<a:
     print("сумма любых 2ух сторон треугольников должна быть > длины третей стороны")
     exit()
 p = a+b+c
