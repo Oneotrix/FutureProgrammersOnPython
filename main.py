@@ -1,21 +1,23 @@
-a = int(input("введите число:"))
-b = int(input("введите число:"))
-c = int(input("введите число:"))
+g = 0
+h = 0
+print("введите число")
+a = int(input("Ответ:"))
 
-int1 = a+b > c
-int2 = c+b > a
-int3 = a+c > b
+print("повторите ещё раз")
+b = int(input("Ответ:"))
 
-P = 0
-S = 0
-p = 0
+print("ещё")
+c = int(input("Ответ:"))
 
-if int1 and int2 and int3:
-    P = a + b + c
-    p = P / 2
-    S = p * (p - a) * (p - b) * (p - c) ** 0, 5
-    print(P)
-    print(S)
+print("ЕЩЁ!")
+i = int(input("Ответ"))
+
+print("загрузка...")
+
+g = a + i
+h = b + c
+
+if g == h:
+    print("равно")
 else:
-    print("дебилыч, переделывай")
-
+    print("неравно")
