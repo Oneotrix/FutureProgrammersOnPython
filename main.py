@@ -1,23 +1,26 @@
 g = 0
 h = 0
-print("введите число")
-a = int(input("Ответ:"))
 
-print("повторите ещё раз")
-b = int(input("Ответ:"))
+while True:
+    print("введите число")
+    a = int(input("Ответ:"))
 
-print("ещё")
-c = int(input("Ответ:"))
+    print("повторите ещё раз")
+    b = int(input("Ответ:"))
 
-print("ЕЩЁ!")
-i = int(input("Ответ"))
+    print("ещё")
+    c = int(input("Ответ:"))
 
-print("загрузка...")
+    print("ЕЩЁ!")
+    i = int(input("Ответ"))
 
-g = a + i
-h = b + c
+    print("загрузка...")
 
-if g == h:
-    print("равно")
-else:
-    print("неравно")
+    g = a + i
+    h = b + c
+
+    if g == h:
+        print("равно")
+        break
+    else:
+        print("ошибка, повторите ещё раз")
