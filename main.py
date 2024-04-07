@@ -6,7 +6,11 @@ d = int(input("введите число:"))
 suma = a+d
 sumaA = b+c
 
-if suma == sumaA:
-    print("равно")
-else:
-    print("не равно")
+while True:
+    num = int(input("введите число:"))
+    if num == suma :
+        break
+    else:
+        print("не равно")
+
+print("равно")
