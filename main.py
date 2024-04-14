@@ -1,26 +1,11 @@
-g = 0
-h = 0
+list = [1,2,3,4,5,6,7,8,9,10]
+count = 0
+size = 0
 
-while True:
-    print("введите число")
-    a = int(input("Ответ:"))
+list.__len__()
 
-    print("повторите ещё раз")
-    b = int(input("Ответ:"))
+for i in  range(1, list.__len__()):
+    if list[i] > list[i-1]:
+        count +=1
 
-    print("ещё")
-    c = int(input("Ответ:"))
-
-    print("ЕЩЁ!")
-    i = int(input("Ответ"))
-
-    print("загрузка...")
-
-    g = a + i
-    h = b + c
-
-    if g == h:
-        print("равно")
-        break
-    else:
-        print("ошибка, повторите ещё раз")
+print(count)
