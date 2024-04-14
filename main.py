@@ -1,8 +1,8 @@
-a=int (input())
-b=int (input())
-c=int (input())
-d=int (input())
-if a+d==b+c:
-    print("Равно")
-else:
-    print("Не равно")
+list = [3, 4, 10, 6, 12]
+a = 0
+l = len(list)
+for i in list:
+    a += i
+    b = a / l
+print("Cреднее арифметическое -", b)
+
