@@ -1,16 +1,12 @@
-a = int(input("введите число:"))
-b = int(input("введите число:"))
-c = int(input("введите число:"))
-d = int(input("введите число:"))
-
-suma = a+d
-sumaA = b+c
-
+sum = 1
 while True:
-    num = int(input("введите число:"))
-    if num == suma :
+    try:
+        for i in range(1,6):
+        data = int(input(f"введите данные:"))
+        sum *= data
         break
-    else:
-        print("не равно")
+    except:
+        sum = 0
+        print("введите повторно:")
 
-print("равно")
+    print(sum)
