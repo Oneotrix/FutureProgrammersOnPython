@@ -1,12 +1,7 @@
-sum = 1
-while True:
-    try:
-        for i in range(1,6):
-        data = int(input(f"введите данные:"))
-        sum *= data
-        break
-    except:
-        sum = 0
-        print("введите повторно:")
+def sum_of_two_numbers(num1: int, num2: int):
+    s = (num1 + num2)
 
-    print(sum)
+
+
+sum_of_two_numbers(12,2)
+
